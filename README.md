@@ -1,2 +1,0 @@
-# OVI-Unad
-Seguridad Informatica
